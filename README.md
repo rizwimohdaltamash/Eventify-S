@@ -333,7 +333,3 @@ const bookingMutation = useMutation({
   },
 });
 ```
-
-## 📝 License
-
-ISC
